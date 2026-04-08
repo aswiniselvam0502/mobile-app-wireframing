@@ -21,9 +21,9 @@ To create a simple, clear, and user-friendly wireframe for a mobile app.
   
 ## 📷 Preview
 
-![Login Screen](Frame 1 - login screen.jpg)
-![Form Screen](Frame 2 - input screen.jpg)
-![Home Screen](Frame 3 - home list screen.jpg)
+![Login Screen](login.jpg)
+![Form Screen](form.jpg)
+![Home Screen](home.jpg)
 
 ## 🔗 Figma Link
 
