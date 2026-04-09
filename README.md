@@ -27,6 +27,7 @@ To create a simple, clear, and user-friendly wireframe for a mobile app.
 
 ## 🔗 Figma Link
 
-https://www.figma.com/proto/EqX7QeWlJzwYYuYJpXoig6/Untitled?node-id=328-404&t=TKNyLqD8BmehT70J-1
+https://www.figma.com/proto/D4FwssPz7CUnMalCC7rx4H/Untitled?node-id=63-269&t=gedKZ3YHAxWiumtZ-1
+
 # mobile-app-wireframing
 This project showcase low-fidelity wireframes for a mobile application,focusing on layout,structure,and user flow.The design includes login,form,and home screens created using figma.  User flow:Login ->Form ->Home
